@@ -10,3 +10,7 @@ make_loom_plots_cellfishing.R: R script to visualize cellfishing results
 PIDC.ipynb: Python notebook used to run PIDC gene regulatory network analysis
 
 make_gene_reg_net_plots.R: R script to visualize PIDC results
+
+find_extreme_genes.py: volcano plot decomposition (2a) 
+
+parse_tcr.py: TCR Sankey plot (5d)
